@@ -7,10 +7,10 @@ const Home = () => {
   return (
     <>
       <Main />
-      <Row title="Up Coming" fetchUrl={requests.requestUpcoming} />
-      <Row title="Popular" fetchUrl={requests.requestPopular} />
-      <Row title="Trending" fetchUrl={requests.requestTrending} />
-      <Row title="Top Rated" fetchUrl={requests.requestTopRated} />
+      <Row rowID='1' title="Up Coming" fetchUrl={requests.requestUpcoming} />
+      <Row rowID='2' title="Popular" fetchUrl={requests.requestPopular} />
+      <Row rowID='3' title="Trending" fetchUrl={requests.requestTrending} />
+      <Row rowID='4' title="Top Rated" fetchUrl={requests.requestTopRated} />
     </>
   )
 }
