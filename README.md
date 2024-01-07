@@ -30,3 +30,9 @@ This is a Netflix clone built with React.js using Vite for optimized builds. It 
 
 ## Acknowledgments
 - Design inspired by Netflix's official website.
+
+## Contribution
+Feel free to contribute to this project by opening issues or creating pull requests. Any suggestions or improvements are welcome!
+
+## License
+This project is licensed under the [MIT License](LICENSE).
