@@ -11,7 +11,7 @@ This is a Netflix clone built with React.js using Vite for optimized builds. It 
 - **Firebase Authentication**: Enables user authentication and sign-in functionalities.
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/yourusername/netflix-clone.git`
+1. Clone the repo: `git clone https://github.com/farazkhan2000/netflix-clone.git`
 2. Go to project directory: `cd netflix-clone`
 3. Install dependencies: `npm install`
 4. Run the app: `npm run dev`
